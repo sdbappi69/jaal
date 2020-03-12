@@ -1,0 +1,12 @@
+{
+   "workbench.colorTheme": "Quiet Light",
+    "window.zoomLevel": 0,
+    "highlight-matching-tag.styles": {
+        "opening": {
+            "name": {
+                "underline": "red",
+                "highlight": "rgba(255,0,0,0.2)"
+            }            
+        }
+      }
+}
